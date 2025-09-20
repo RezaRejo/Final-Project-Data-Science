@@ -1,2 +1,17 @@
-# Final-Project-Data-Science
-Proyek ini berfokus pada prediksi churn dan segmentasi pelanggan anggota gym dengan memanfaatkan data demografi, perilaku kunjungan, layanan tambahan, dan kontribusi finansial. Melalui analisis data (EDA), ditemukan bahwa faktor utama churn adalah usia muda, jarang berkunjung, dan waktu singkat di gym. Model Machine Learning (Logistic Regression dan Random Forest) digunakan untuk memprediksi risiko churn, dengan Random Forest menunjukkan performa lebih baik meskipun recall churn masih rendah. Hasilnya memberikan insight bagi manajemen gym untuk merancang strategi retensi yang lebih personal, seperti reminder untuk anggota jarang hadir, promosi layanan tambahan, dan monitoring churn secara rutin.
+✨ Final Project Data Science Bootcamp ✨
+
+Saya baru saja menyelesaikan project Customer Churn Prediction & Segmentation untuk gym membership.
+
+🎯 Tujuan :
+Memprediksi anggota yang berisiko churn & membuat segmentasi pelanggan untuk strategi retensi.
+
+📊 Metode :
+Exploratory Data Analysis + Machine Learning (Logistic Regression, Random Forest).
+
+✅ Hasil Utama :
+Random Forest lebih seimbang mendeteksi churn dibanding Logistic Regression, meski recall churn masih perlu ditingkatkan.
+
+💡 Insight :
+1.Anggota muda & jarang hadir lebih berisiko churn.
+2.Faktor paling berpengaruh: waktu di gym & total pengeluaran.
+3.Rekomendasi: reminder & promo untuk At Risk Members, peningkatan layanan tambahan, serta personalisasi strategi retensi.
